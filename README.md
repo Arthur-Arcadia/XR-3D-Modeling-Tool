@@ -6,7 +6,7 @@ A Unity VR prototype for creating and manipulating primitive shapes through spat
 **Platform:** Meta Quest VR  
 **Status:** Evaluated prototype
 
-![Workshop scene from the walkthrough recording](media/workshop.jpg)
+![Workshop scene from the walkthrough recording](media/workshop.png)
 
 ## Features
 
@@ -71,10 +71,10 @@ These improvements are recommendations from evaluation; they are not presented a
 
 - [Testing Plan](Document/UserTesting/TestingPlan.md) — original Markdown file, retained unchanged.
 - [Final Evaluation Report](Document/final-evaluation-report.md) — converted from the original Word report.
-- [Tester 1](Document/UserTesting//tester-1.md)
-- [Tester 2](Document/UserTesting//tester-2.md) — transcription and original handwritten pages.
-- [Tester 3](Document/UserTesting//tester-3.md)
-- [Tester 4](Document/UserTesting//tester-4.md) — transcription and original handwritten pages.
+- [Tester 1](Document/UserTesting/tester-1.md)
+- [Tester 2](Document/UserTesting/tester-2.md) — transcription and original handwritten pages.
+- [Tester 3](Document/UserTesting/tester-3.md)
+- [Tester 4](Document/UserTesting/tester-4.md) — transcription and original handwritten pages.
 - [Tutor Feedback](Document/UserTesting/tutor-feedback.md)
 - [Evidence Review](Document/evidence-review.md) — reconciliation of timings, criteria, and reporting limits.
 
