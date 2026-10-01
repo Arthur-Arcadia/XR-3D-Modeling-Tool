@@ -71,11 +71,11 @@ These improvements are recommendations from evaluation; they are not presented a
 
 - [Testing Plan](Document/UserTesting/TestingPlan.md) — original Markdown file, retained unchanged.
 - [Final Evaluation Report](Document/final-evaluation-report.md) — converted from the original Word report.
-- [Tester 1](Document/User-Testing/tester-1.md)
-- [Tester 2](Document/User-Testing/tester-2.md) — transcription and original handwritten pages.
-- [Tester 3](Document/User-Testing/tester-3.md)
-- [Tester 4](Document/User-Testing/tester-4.md) — transcription and original handwritten pages.
-- [Tutor Feedback](Document/User-Testing/tutor-feedback.md)
+- [Tester 1](Document/User Testing/tester-1.md)
+- [Tester 2](Document/User Testing/tester-2.md) — transcription and original handwritten pages.
+- [Tester 3](Document/User Testing/tester-3.md)
+- [Tester 4](Document/User Testing/tester-4.md) — transcription and original handwritten pages.
+- [Tutor Feedback](Document/User Testing/tutor-feedback.md)
 - [Evidence Review](Document/evidence-review.md) — reconciliation of timings, criteria, and reporting limits.
 
 The full walkthrough video is provided separately. The images above are stills from that recording.
